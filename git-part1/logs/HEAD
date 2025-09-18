@@ -1,0 +1,43 @@
+0000000000000000000000000000000000000000 c3d4609ac00c1d7478baf0bfa153ca2ce6206429 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1720865137 +0530	commit (initial): first commit
+c3d4609ac00c1d7478baf0bfa153ca2ce6206429 0000000000000000000000000000000000000000 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1720865138 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 c3d4609ac00c1d7478baf0bfa153ca2ce6206429 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1720865138 +0530	Branch: renamed refs/heads/master to refs/heads/main
+c3d4609ac00c1d7478baf0bfa153ca2ce6206429 b751c38134dc8fb933649aec32507d0d29492557 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1720865171 +0530	commit: commit 1st
+b751c38134dc8fb933649aec32507d0d29492557 589fb4a6d55fb8f91872ae0c362e3d908209a796 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1720865722 +0530	commit: this is the commit of the backend url in frotend utils files
+589fb4a6d55fb8f91872ae0c362e3d908209a796 36f3d43c498d31a5cb777ff68a12044b27165a5d rajan0031 <109027109+rajan0031@users.noreply.github.com> 1720867949 +0530	commit: this is the
+36f3d43c498d31a5cb777ff68a12044b27165a5d 8f20faa60e77d679f85db83f9cb1ed2d2766a094 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1721106994 +0530	commit: this is the commit
+8f20faa60e77d679f85db83f9cb1ed2d2766a094 576ba7558c054c1913ae8dad48e4088e8056d002 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1721107444 +0530	commit: packag
+576ba7558c054c1913ae8dad48e4088e8056d002 6794116b196b5e6d46ea66b02c384e5e81a2b326 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1721107918 +0530	commit: CC
+6794116b196b5e6d46ea66b02c384e5e81a2b326 f6c28cf1612a08b6883405fcafb8171920471ae1 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1721108721 +0530	commit: hello
+f6c28cf1612a08b6883405fcafb8171920471ae1 b7e3982d9eea59fff2c09ec58eb4a9f5a8e18c55 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1721108981 +0530	commit: hello
+b7e3982d9eea59fff2c09ec58eb4a9f5a8e18c55 3b42d425bbad78955240bd997a129213bc582c39 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1721115193 +0530	commit: d
+3b42d425bbad78955240bd997a129213bc582c39 d17f065d61693f4f55ad2e70d5aabb29382abfe6 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1721116046 +0530	commit: added dist
+d17f065d61693f4f55ad2e70d5aabb29382abfe6 05471664d0cf2b5e7e905bca2e8077045573feb8 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1721119771 +0530	commit: removed the useState dependencies to make its static in nature
+05471664d0cf2b5e7e905bca2e8077045573feb8 9c448a9da22d6d715b606fcd7d65e0b22b060126 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727957342 +0530	commit: this is my frontend change
+9c448a9da22d6d715b606fcd7d65e0b22b060126 7b6cad79ed6b29b4edccec76deddfb81a2fed0b2 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727957821 +0530	commit: this is my frontend change
+7b6cad79ed6b29b4edccec76deddfb81a2fed0b2 25ef52570b35e42573e0eaeeeb23d49afa6ee5fc rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727958195 +0530	commit: this is my frontend change
+25ef52570b35e42573e0eaeeeb23d49afa6ee5fc 25b8aaa152f879a96cc5247edc474fe862e3d388 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727960166 +0530	commit: this is my frontend change
+25b8aaa152f879a96cc5247edc474fe862e3d388 0517bdce0428499bbd8a6cc88cf13f1577d25f0b rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727960725 +0530	commit: this is my frontend change
+0517bdce0428499bbd8a6cc88cf13f1577d25f0b 123d1f6f5b49150679db9976dbe83fbf76491922 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727961850 +0530	commit: this is my frontend change
+123d1f6f5b49150679db9976dbe83fbf76491922 6b5e7b10a752ab05bdad3e2afe8634d1ea55ff5a rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727962078 +0530	commit: this is my frontend change
+6b5e7b10a752ab05bdad3e2afe8634d1ea55ff5a 2305624b4fd8fb53f95a2f3eb5bf7ccb2696d26e rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727963527 +0530	commit: this is my frontend change
+2305624b4fd8fb53f95a2f3eb5bf7ccb2696d26e 6dfee90531071c863463804b9a478e2871124ddc rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727978047 +0530	commit: this is my frontend change
+6dfee90531071c863463804b9a478e2871124ddc 0176b952a41b69e2cc8714dddce9cbb4f3c1f468 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727978378 +0530	commit: this is my frontend change
+0176b952a41b69e2cc8714dddce9cbb4f3c1f468 412816dc81d71b55fb1830c8f91e806f26f79d04 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1727978775 +0530	commit: this is my frontend change
+412816dc81d71b55fb1830c8f91e806f26f79d04 17b186c2a96ac20a972877f0ba7eefe06ca15513 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1728015903 +0530	commit: this is my frontend change
+17b186c2a96ac20a972877f0ba7eefe06ca15513 b609d03e821af210787f589bf32993a7a8bd0d26 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1728016123 +0530	commit: this is my frontend change
+b609d03e821af210787f589bf32993a7a8bd0d26 41e87cc7fd9298ebc782d48f59f9ce7aab82aaa5 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1728016956 +0530	commit: this is my frontend change
+41e87cc7fd9298ebc782d48f59f9ce7aab82aaa5 db86ea5dfcf5cff6f9da8885a810691e9bcb3c29 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1729482966 +0530	commit: added the netlify.toml file to set the redirecting to the different pages
+db86ea5dfcf5cff6f9da8885a810691e9bcb3c29 e34a44e609218fca010ce3cfaf271c8ac4432d6f rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732252620 +0530	commit: this is the addition of the different utils and the pages etc...
+e34a44e609218fca010ce3cfaf271c8ac4432d6f ca098e5781f65a7e4f5f3423536f4fdb6306165e rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732253673 +0530	commit: first commit
+ca098e5781f65a7e4f5f3423536f4fdb6306165e 0000000000000000000000000000000000000000 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732253673 +0530	Branch: renamed refs/heads/main to refs/heads/main
+ca098e5781f65a7e4f5f3423536f4fdb6306165e ca098e5781f65a7e4f5f3423536f4fdb6306165e rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732253673 +0530	Branch: renamed refs/heads/main to refs/heads/main
+ca098e5781f65a7e4f5f3423536f4fdb6306165e 0000000000000000000000000000000000000000 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732253689 +0530	Branch: renamed refs/heads/main to refs/heads/main
+ca098e5781f65a7e4f5f3423536f4fdb6306165e ca098e5781f65a7e4f5f3423536f4fdb6306165e rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732253689 +0530	Branch: renamed refs/heads/main to refs/heads/main
+ca098e5781f65a7e4f5f3423536f4fdb6306165e a2de25e6c1ec01fe05c93076869f3dec0739fd20 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732441398 +0530	commit: first commit
+a2de25e6c1ec01fe05c93076869f3dec0739fd20 0000000000000000000000000000000000000000 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732441399 +0530	Branch: renamed refs/heads/main to refs/heads/main
+a2de25e6c1ec01fe05c93076869f3dec0739fd20 a2de25e6c1ec01fe05c93076869f3dec0739fd20 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1732441399 +0530	Branch: renamed refs/heads/main to refs/heads/main
+a2de25e6c1ec01fe05c93076869f3dec0739fd20 02c957b229f97947be132ba1fbe07b6af9e8f650 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1734672641 +0530	commit: hggh
+02c957b229f97947be132ba1fbe07b6af9e8f650 c81ebcc909d11170ba2ed58a9bf1b059bff690e0 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1734672913 +0530	commit: hggh
+c81ebcc909d11170ba2ed58a9bf1b059bff690e0 e8d07b4d348c0bfc79a38dd38a890663d00f4801 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1734673197 +0530	commit: hggh
+e8d07b4d348c0bfc79a38dd38a890663d00f4801 983b30eabdd5dc8d0e8d8aa3eb6f7e7850f70698 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1745001329 +0530	commit: converting the frontend to the new plantdiscovery
+983b30eabdd5dc8d0e8d8aa3eb6f7e7850f70698 97b444f0e2149d846d193269a0233cee02632e08 rajan0031 <109027109+rajan0031@users.noreply.github.com> 1747400413 +0530	commit: project transfer
